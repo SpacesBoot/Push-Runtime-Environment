@@ -1,10 +1,10 @@
 # PRE
 
-PRE (Push Runtime Enviornment) es un programa que ayuda a ejecutar binarios/bytecode de push.
+PRE (Push Runtime Environment) es un programa que ayuda a ejecutar binarios/bytecode de push.
 
 # Uso
 
-´bash
+```bash
 
 pre main.psh
-`
+```
