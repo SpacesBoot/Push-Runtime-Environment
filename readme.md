@@ -6,5 +6,5 @@ PRE (Push Runtime Environment) es un programa que ayuda a ejecutar binarios/byte
 
 ```bash
 
-pre main.psh
+pre main.psh.pb
 ```
