@@ -1,2 +1,2 @@
-*.pb linguist-language= Push Bytecode
-*.psh linguist-language= Push
+*.pb linguist-language=PushBytecode
+*.psh linguist-language=Push
